@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "installer_url": "https://github.com/schildjenini/jarvis-releases/releases/download/v1.1.0/JarvisSetup-1.1.0.exe",
-  "notes": "Futuristischere HUD-cirkel + mobiele toegang (chat/spraak via je telefoon)"
+  "version": "1.1.1",
+  "installer_url": "https://github.com/schildjenini/jarvis-releases/releases/download/v1.1.1/JarvisSetup-1.1.1.exe",
+  "notes": "Jarvis spreekt je nu aan met 'sir'"
 }
